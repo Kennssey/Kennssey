@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://badge.mediaplus.ma/binary/mourihi?1337Badge=off&UM6P=off
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mourihi?1337Badge=off&UM6P=off" alt="mourihi's 42 stats" /></a>
